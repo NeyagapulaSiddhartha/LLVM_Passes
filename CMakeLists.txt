@@ -1,1 +1,0 @@
-add_llvm_library(ArithmeticIntensity MODULE ArithmeticIntensity.cpp)
